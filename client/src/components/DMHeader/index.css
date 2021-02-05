@@ -1,0 +1,25 @@
+.login-header{
+    background: transparent;
+    text-align: center;
+}
+.logingit{
+    font-family: 'Abel', sans-serif;
+    text-shadow: 4px 0 .2em #00000077, -4px 0 .2em #00000077;
+    font-weight: bold;
+    text-align: left;
+    margin: 0;
+    color: #ffbd4a;
+    display: inline;
+}
+.loginmatched{
+    font-family: 'Abel', sans-serif;
+    margin: 0;
+    text-shadow: 4px 0 .2em #00000077, -4px 0 .2em #00000077;
+    font-weight: bold;
+    text-align: right;
+    color: #99e265;
+    display: inline;
+}
+.h2{
+    margin: auto!important;
+}

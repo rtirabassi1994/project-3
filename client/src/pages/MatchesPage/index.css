@@ -1,0 +1,22 @@
+.new-matches {
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+    /* color: #FF5C5C; */
+  }
+  .flex {
+      display: flex;
+      flex-direction: row;
+      padding-top: 3em;
+      padding-bottom: 2em;
+      justify-content: center ;
+  }
+  .scroll-matches {
+    overflow-y: auto;
+    max-height: 300px;
+  }
+  .matches-list {
+    background-color: #E8F6DF!important;
+  }
+  .contact-grid {
+    background-color: #DEDFE0!important;
+  }
